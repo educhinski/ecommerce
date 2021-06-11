@@ -24,6 +24,13 @@
   height: 32rem;
 }
 
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
